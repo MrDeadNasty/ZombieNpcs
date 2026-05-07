@@ -185,9 +185,11 @@ NPC FIGHTERS
 --------------------------------------------------------------------------------
  
   Zombie NPCs mod — built from scratch using:
-    - Metro Mod Loader hook API (ametrocavich)
-    - MCM integration pattern from FactionWarfare + More Enemies
-    - (Depencendy) Fighter AI via ASO (Armed Enhancement - AI System Overhaul, Skuddster)
+   - Metro Mod Loader hook API (ametrocavich)
+    
+   - MCM integration pattern from FactionWarfare + More Enemies
+    
+   - (Depencendy) Fighter AI via ASO (Armed Enhancement - AI System Overhaul, Skuddster)
 --------------------------------------------------------------------------------
 
 [mod info]
