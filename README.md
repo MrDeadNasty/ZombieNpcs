@@ -1,5 +1,7 @@
 <img width="1280" height="640" alt="zombstock (1)" src="https://github.com/user-attachments/assets/cf703ee8-73ab-4b26-b218-b89d2a00680c" />
-# ZombieNpcs
+
+ZombieNpcs
+--------------------------------------------------------------------------------
 Turns a portion of the map's NPCs into shambling zombie-like threats while survivor NPCs fight back using full ASO AI behaviour (see Requirements for ASO).
 
 ZOMBIE NPCs
