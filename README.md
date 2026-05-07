@@ -1,8 +1,8 @@
 # ZombieNpcs
 Turns a portion of the map's NPCs into shambling zombie-like threats while survivor NPCs fight back using full ASO AI behaviour.
+
 ZOMBIE NPCs
-  A configurable number of spawned NPCs are turned into zombies. Each zombie:
- 
+  Each zombie:
   - Staggers side-to-side as it walks, weaving with a slow lurch
   - Grunts and vocalises at random intervals (add your own audio files)
   - Has terrible aim with extra angular spread on every shot
