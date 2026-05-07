@@ -138,21 +138,16 @@ NPC FIGHTERS
   ADDING GRUNT SOUNDS
 --------------------------------------------------------------------------------
  
-  The mod has audio slots ready. To use them:
+  The mod has audio slots ready. (3 build in) To use them:
  
-  1. Place OGG or WAV files inside the .vmz (rename to .zip, add files, rename
+  1. Place OGG or WAV files inside the audio folder inside the .vmz (rename to .zip, add files, rename
      back to .vmz) at:
        mods/ZombieMod/audio/grunt1.ogg
        mods/ZombieMod/audio/grunt2.ogg
        mods/ZombieMod/audio/grunt3.ogg
- 
-  2. Open mods/ZombieMod/AIHooks.gd and uncomment the lines in the
-     GRUNT_SOUNDS constant at the top of the file:
-       const GRUNT_SOUNDS = [
-           "res://mods/ZombieMod/audio/grunt1.ogg",
-           ...
-       ]
- 
+
+     The mod will auto load up to 5 .ogg or .wav files.
+  
   Sounds are played at 3D world position with logarithmic falloff. They
   are pitch-shifted slightly each time so repeated clips don't sound
   mechanical.
