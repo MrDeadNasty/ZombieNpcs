@@ -46,7 +46,7 @@ NPC FIGHTERS
     Recommended. Without it all settings use defaults and must be edited
     manually in the config file (see MANUAL CONFIG below).
  
-  *** ASO — Armed Enhancement: AI System Overhaul by Skuddster ***
+  *** ASO — Armed Enhancement: AI System Overhaul by Peter Master ***
   
    https://modworkshop.net/mod/56583
     Recommended for NPC fighters. Without ASO the fighter NPCs will still
