@@ -10,7 +10,7 @@ ZOMBIE NPCs
   - Hesitates before firing — slow to pull the trigger
   - Moves slower than a normal NPC
   - Can be given a health multiplier to make them tankier
-  - Is disarmed of ranged weapons and given melee only (knife)
+  - (if possible) Is disarmed of ranged weapons and given melee only (knife) or accuracy/spread for weapons if melee not possible.
  
 NPC FIGHTERS
   
