@@ -35,18 +35,18 @@ NPC FIGHTERS
  
   Metro Mod Loader v3.1+
   
-    https://modworkshop.net/mod/55623
+   https://modworkshop.net/mod/55623
     Required. The mod will not load without it.
  
   Mod Configuration Menu (MCM) by DoinkOink
   
-    https://modworkshop.net/mod/53713
+   https://modworkshop.net/mod/53713
     Recommended. Without it all settings use defaults and must be edited
     manually in the config file (see MANUAL CONFIG below).
  
   *** ASO — Armed Enhancement: AI System Overhaul by Skuddster ***
   
-    https://modworkshop.net/mod/56583
+   https://modworkshop.net/mod/56583
     REQUIRED for NPC fighters. Without ASO the fighter NPCs will still
     spawn and move around, but they will not have enhanced detection,
     faction targeting, reaction time, personality, ammo tracking, or
