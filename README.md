@@ -47,8 +47,8 @@ NPC FIGHTERS
   *** ASO — Armed Enhancement: AI System Overhaul by Skuddster ***
   
    https://modworkshop.net/mod/56583
-    REQUIRED for NPC fighters. Without ASO the fighter NPCs will still
-    spawn and move around, but they will not have enhanced detection,
+    Recommended for NPC fighters. Without ASO the fighter NPCs will still
+    spawn and act as vanilla ai, but they will not have enhanced detection,
     faction targeting, reaction time, personality, ammo tracking, or
     suppression fire. The mod will print a warning in the output log if
     ASO is not detected at startup.
