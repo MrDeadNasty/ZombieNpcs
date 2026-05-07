@@ -2,6 +2,7 @@
 Turns a portion of the map's NPCs into shambling zombie-like threats while survivor NPCs fight back using full ASO AI behaviour.
 
 ZOMBIE NPCs
+ 
   Each zombie:
   - Staggers side-to-side as it walks, weaving with a slow lurch
   - Grunts and vocalises at random intervals (add your own audio files)
@@ -12,6 +13,7 @@ ZOMBIE NPCs
   - Is disarmed of ranged weapons and given melee only (knife)
  
 NPC FIGHTERS
+  
   A separate pool of normal NPCs is tagged as fighters and given ASO's full
   AI brain. They will:
  
