@@ -188,3 +188,20 @@ NPC FIGHTERS
     - Metro Mod Loader hook API (ametrocavich)
     - MCM integration pattern from FactionWarfare + More Enemies
     - (Depencendy) Fighter AI via ASO (Armed Enhancement - AI System Overhaul, Skuddster)
+--------------------------------------------------------------------------------
+
+[mod info]
+name="Zombie NPCs"
+id="zombie-npcs"
+version="4.0.0"
+description="Turns NPCs into shambling zombies. Fighter NPCs use ASO (Armed Enhancement - AI System Overhaul) for full AI. Requires ASO."
+author="DeadNasty/Claude"
+priority=70
+ 
+[autoload]
+ZombieModConfig="res://mods/ZombieMod/Config.gd"
+ZombieModMain="res://mods/ZombieMod/Main.gd"
+ 
+[hooks]
+"res://Scripts/AI.gd" = "Activate, Parameters, SelectWeapon"
+"res://Scripts/AISpawner.gd" = "_ready, SpawnWanderer, SpawnGuard, SpawnHider, SpawnMinion, SpawnBoss"
