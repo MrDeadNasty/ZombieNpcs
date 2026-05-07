@@ -16,7 +16,7 @@ ZOMBIE NPCs
  
 NPC FIGHTERS
   
-  A separate pool of normal NPCs is tagged as fighters and given ASO's full
+  A separate pool of normal NPCs is tagged as fighters and (if) given ASO's full
   AI brain. They will:
  
   - Detect zombies using ASO's graduated detection meter (affected by weather,
