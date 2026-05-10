@@ -2,7 +2,7 @@
 
 ZombieNpcs
 --------------------------------------------------------------------------------
-Turns a portion of the map's NPCs into shambling zombie-like threats while survivor NPCs fight back using full ASO AI behaviour (see Requirements for ASO).
+Turns every NPC into a shambling zombie — slower movement, staggered walk, horrible aim, and periodic grunting. Full MCM support for zombie counts, spawn timers, stagger strength and speed, grunt intervals, aim spread, fire delay, health multiplier, fighter squad size, and ASO faction integration. ASO recommended but not required.
 
 ZOMBIE NPCs
  
