@@ -35,7 +35,7 @@ NPC FIGHTERS
   REQUIREMENTS — READ CAREFULLY
 --------------------------------------------------------------------------------
  
-  Metro Mod Loader v3.1+
+  Metro Mod Loader v3.2+
   
    https://modworkshop.net/mod/55623
     Required. The mod will not load without it.
