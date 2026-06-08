@@ -1,4 +1,4 @@
-VRCETS Zombie Hunter
+VRCETS Zombie Outbreak
 Adds a new infected threat to Road to Vostok. Zombies can spawn across enabled maps, hunt the player and other NPCs, spread infection by killing NPCs, drop custom loot, and damage nearby players with a configurable aura. They use BloodyBandits-style skins, zombie grunts, slow reloads, bad aim, limited ammo, and can eventually run dry and become aura only.
 
 
