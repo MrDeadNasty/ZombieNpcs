@@ -9,7 +9,7 @@ Goes Perfect with: https://modworkshop.net/mod/56662
 
 Features:
 
-Tiered infected spawns: Low / Mid / High
+Tiered infected spawns: Low / Mid / High / Alpha
 Custom Zombie grunts
 Always-one infected option
 Infected can hunt and damage NPCs
@@ -17,7 +17,8 @@ NPCs can fight back, with or without ASO
 Infection spread from NPC kills - Infected kills on other AI make the next spawn in as an Infected
 Aura damage with warning, sound, and screen shake
 Bad aim, LOS shooting checks, slow reloads, and finite ammo
-BloodyBandits skin support
+BloodyBandits skin included
+Outbreak event
 Green infected particle effect
 Corpse loot: Infected Brain, Mutant Tissue, Contaminated Sample
 Optional VostokRelayChat death message
